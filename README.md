@@ -1,5 +1,5 @@
 # MetaDatabse-Pollak-et-al-2026
-Code to perform analysis in CP manuscript of Pollak et al. 2026 and to generate all figures.
+Code to generate figures and perform analysis of the manuscript _"Glacial and interglacial intensities across the Mid-Pleistocene Transition from a new 1.5 Myr long compilation of marine and terrestrial records"_ in Climate of the Past, Pollak et al. 2026. 
 
 ## Note:
 
